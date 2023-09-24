@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+👯 I’m looking to collaborate on android open source projects
+🌱 I’m currently learning Web3, KMP, Performance optimizations in Android, CI/CD
+💬 Ask me about Android, Kotlin, Compose, Clean Code
+
 <!--
 **kansalmohit19/kansalmohit19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
