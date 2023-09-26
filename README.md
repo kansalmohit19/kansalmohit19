@@ -4,8 +4,8 @@
 - 🌱 I’m currently learning Web3, KMP, Performance optimizations in Android, CI/CD
 - 💬 Ask me about Android, Kotlin, Compose, Clean Code
 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-[(https://www.linkedin.com/)](https://github.com/USERID/REPO/actions/workflows/WORKFLOW-FILE-NAME.yml))
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/USERID/REPO/actions/workflows/WORKFLOW-FILE-NAME.yml))
+
 ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
 
 !Github stats(https://github-readme-stats.vercel.app/api?username=kansalmohit19)
