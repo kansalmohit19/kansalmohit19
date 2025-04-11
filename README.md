@@ -6,9 +6,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://github.com/USERID/REPO/actions/workflows/WORKFLOW-FILE-NAME.yml](https://www.linkedin.com/in/mohit-kansal-2661b58b/))
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohit-kansal-2661b58b/)
-
-![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)]
+(https://stackoverflow.com/users/3563453/mohit-kansal?tab=profile)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kansalmohit19&show_icons=true)
 
