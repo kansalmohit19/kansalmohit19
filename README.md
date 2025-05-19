@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 👯 I’m looking to collaborate on Android open-source projects
-- 🌱 I’m currently learning Web3, KMP, Performance optimizations in Android, CI/CD
+- 🌱 I’m currently learning KMP, Performance optimizations in Android, CI/CD
 - 💬 Ask me about Android, Kotlin, Compose, Clean Code
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohit-kansal-2661b58b/)
