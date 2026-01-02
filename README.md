@@ -1,27 +1,82 @@
-### Hi there 👋
+<!-- Dark Theme GitHub Profile README -->
 
-- 👯 I’m looking to collaborate on Android open-source projects
-- 🌱 I’m currently learning KMP, Performance optimizations in Android, CI/CD
-- 💬 Ask me about Android, Kotlin, Compose, Clean Code
+<h1 align="center">Hi, I'm Mohit Kansal 👋</h1>
+<h3 align="center">Mobile App Development • Kotlin Multiplatform • Android/iOS • AI Explorer • Systems Enthusiast</h3>
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohit-kansal-2661b58b/)
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/3563453/mohit-kansal?tab=profile)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kansalmohit19&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kansalmohit19&theme=github)
+---
 
-![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kansalmohit19&theme=github)
+## About Me
 
-<!--
-**kansalmohit19/kansalmohit19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 I like to explore new technologies and develop **software solutions** and **quick hacks**.  
+👨🏻‍💻 I'm currently learning more about **Artificial Intelligence**, **System Design**, and **Cloud Architecture**.  
+💬 Feel free to reach out for **consulting**, **volunteering**, or just an interesting tech discussion.  
+✉️ You can email me at **kansalmohit19@gmail.com** — I’ll try to respond as soon as I can.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?theme=dark&i=ai,kotlin,java,androidstudio,gradle,apple,swift,github" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?theme=dark&i=compose,firebase,docker,aws" />
+</p>
+
+<small>
+• Kotlin Multiplatform (KMP) & iOS  
+• Kotlin, Swift & Java  
+• SwiftUI & Jetpack Compose
+</small>
+
+---
+
+## Pinned Repositories
+
+<p align="center">
+  ![Repo](https://img.shields.io/badge/fotd--kmp-Kotlin%20Multiplatform-blue?style=for-the-badge)
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kansalmohit19&repo=fotd-kmp&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kansalmohit19&repo=YOUR_REPO_NAME&theme=github_dark" />
+</p>
+
+<small>👉 Replace `YOUR_REPO_NAME` with your actual pinned repositories</small>
+
+---
+
+## GitHub Analytics
+
+<a href="https://github.com/kansalmohit19">
+  <img height=200 align="center" src="https://github-readme-rd-ltzi.vercel.app/api?username=kansalmohit19&show_icons=true&theme=algolia&count_private=true&hide_rank=true&show=prs_merged,prs_merged_percentage&&hide=contribs,stars&card_width=380" />
+</a>
+
+<a href="https://github.com/kansalmohit19" >
+  <img height=200 align="center" src="https://github-readme-rd-ltzi.vercel.app/api/top-langs?username=RahulDhiman93&hide_progress=true&hide=html,css,scss,jupyter%20notebook&layout=compact&langs_count=10&theme=algolia&card_width=320&size_weight=0.85&count_weight=0.15"/>
+</a>
+---
+
+## 🧩 Contributions Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kansalmohit19&theme=github-compact" />
+</p>
+
+---
+
+## 🤝 Let’s Connect
+
+<p align="center">
+  <a href="mailto:kansalmohit19@gmail.com">
+    <img src="https://img.shields.io/badge/Email-kansalmohit19@gmail.com-blue?style=for-the-badge&logo=gmail&theme=dark" />
+  </a>
+</p>
+
+---
+
+<small align="center">
+⭐ If you like my work, consider giving a star to the repositories you find useful!
+</small>
