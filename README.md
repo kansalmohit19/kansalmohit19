@@ -50,13 +50,16 @@
 
 ## GitHub Analytics
 
-<a href="https://github.com/kansalmohit19">
-  <img height=200 align="center" src="https://github-readme-rd-ltzi.vercel.app/api?username=kansalmohit19&show_icons=true&theme=algolia&count_private=true&hide_rank=true&show=prs_merged,prs_merged_percentage&&hide=contribs,stars&card_width=380" />
-</a>
+<p align="center">
+  <a href="https://github.com/kansalmohit19">
+    <img src="https://github-readme-rd-ltzi.vercel.app/api?username=kansalmohit19&show_icons=true&theme=github-compact&count_private=true&hide_rank=true&show=prs_merged,prs_merged_percentage&hide=contribs,stars&card_width=380" />
+  </a>
 
-<a href="https://github.com/kansalmohit19" >
-  <img height=200 align="center" src="https://github-readme-rd-ltzi.vercel.app/api/top-langs?username=RahulDhiman93&hide_progress=true&hide=html,css,scss,jupyter%20notebook&layout=compact&langs_count=10&theme=algolia&card_width=320&size_weight=0.85&count_weight=0.15"/>
-</a>
+  <a href="https://github.com/kansalmohit19">
+    <img src="https://github-readme-rd-ltzi.vercel.app/api/top-langs/?username=kansalmohit19&hide_progress=true&layout=compact&langs_count=10&theme=github-compact&card_width=380" />
+  </a>
+</p>
+
 ---
 
 ## 🧩 Contributions Graph
