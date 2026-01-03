@@ -36,18 +36,6 @@
 
 ---
 
-## Pinned Repositories
-
-<p align="center">
-  ![Repo](https://img.shields.io/badge/fotd--kmp-Kotlin%20Multiplatform-blue?style=for-the-badge)
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kansalmohit19&repo=fotd-kmp&theme=github_dark" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kansalmohit19&repo=YOUR_REPO_NAME&theme=github_dark" />
-</p>
-
-<small>👉 Replace `YOUR_REPO_NAME` with your actual pinned repositories</small>
-
----
-
 ## GitHub Analytics
 
 <p align="center">
@@ -62,7 +50,7 @@
 
 ---
 
-## 🧩 Contributions Graph
+## Contributions Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kansalmohit19&theme=github-compact" />
@@ -70,7 +58,7 @@
 
 ---
 
-## 🤝 Let’s Connect
+## Let’s Connect
 
 <p align="center">
   <a href="mailto:kansalmohit19@gmail.com">
@@ -81,5 +69,5 @@
 ---
 
 <small align="center">
-⭐ If you like my work, consider giving a star to the repositories you find useful!
+If you like my work, consider giving a star to the repositories you find useful!
 </small>
